@@ -1,8 +1,15 @@
+import java.util.Scanner;
+
 public class Exercicio4 {
     public static void main(String[] args) {
 
+        Scanner scannerReal = new Scanner(System.in);
+        System.out.println("O valor em Real é");
+        int real = scannerReal.nextInt();
+
+
         double euro,dolar,libras,pesos;
-        double real = 10.00;
+
 
         euro = real / 5.17;
         dolar = real / 5.17;
