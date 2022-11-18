@@ -20,3 +20,4 @@ public class Exercicio6 {
             System.out.printf("Essa piscina comporta %.2f litros de água.", capacidadeEmLitros);
         }
     }
+}
