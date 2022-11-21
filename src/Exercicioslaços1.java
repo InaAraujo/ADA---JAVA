@@ -1,4 +1,4 @@
-public class Exercicioslaços {
+public class Exercicioslaços1 {
     public static void main(String[] args){
 
 
